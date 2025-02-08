@@ -1,0 +1,6 @@
+print("العدد الاول")
+a=int(input())
+b=int("العدد الثاني")
+b=int(input())
+total=a+b
+print("الناتج هو:",total)
